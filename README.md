@@ -1,2 +1,2 @@
 # C-Programs
-My practiced C programs 
+C programs I learnt and practiced so far 
