@@ -5,7 +5,7 @@
 int main()
 {
     int x=6;
-    int result = +6;
+    int result = +x;
     printf("%d",result);
 
 
